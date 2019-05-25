@@ -9,24 +9,30 @@ public class SingletonMonoBehaviour<T> : MonoBehaviour where T : MonoBehaviour
 		{
 			if (instance == null)
 			{
+				//そのクラスを検索
 				instance = (T)FindObjectOfType(typeof(T));
+				//見つからなかったらエラーで通知
 				if (instance == null)
 				{
-					Debug.LogError(typeof(T) + "is nothing");
+					Debug.LogError(typeof(T).Name + "が存在してないよ！");
 				}
 			}
+			//シーンに存在しているのであればインスタンスを返す
 			return instance;
+		}
+		set
+		{
+			
 		}
 	}
 
 	protected void Awake()
 	{
-		CheckInstance();
+		isExistInstance();
 	}
 
-	protected bool CheckInstance()
+	protected bool isExistInstance()
 	{
-
 		if (this == Instance)
 		{
 			return true;
