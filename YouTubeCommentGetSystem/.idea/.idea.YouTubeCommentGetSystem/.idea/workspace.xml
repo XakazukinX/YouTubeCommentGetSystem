@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5cb46c64-0749-4f89-8f98-6f7d2cfcec34" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2045525411">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.3" value="5" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="1859" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="1859" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YouTubeChannelInfoCheck.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+              <folding>
+                <marker date="1557419910518" expanded="true" signature="6:74" ph="..." />
+                <marker date="1557419910518" expanded="true" signature="93:1743" ph="{...}" />
+                <marker date="1557419910518" expanded="true" signature="183:1741" ph="{...}" />
+                <marker date="1557419910518" expanded="true" signature="547:673" ph="{...}" />
+                <marker date="1557419910518" expanded="true" signature="719:775" ph="{...}" />
+                <marker date="1557419910518" expanded="true" signature="833:1738" ph="{...}" />
+                <marker date="1557419910518" expanded="true" signature="1173:1236" ph="{...}" />
+                <marker date="1557419910518" expanded="true" signature="1276:1303" ph="{...}" />
+                <marker date="1557419910518" expanded="true" signature="1399:1714" ph="{...}" />
+                <marker date="1557419910518" expanded="true" signature="1503:1546" ph="{...}" />
+                <marker date="1557419910518" expanded="true" signature="1555:1709" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YoutubeCommentGetManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1395">
+              <caret line="100" selection-start-line="100" selection-end-line="100" />
+              <folding>
+                <marker date="1557424370079" expanded="false" signature="6:185" ph="..." />
+                <marker date="1557424370079" expanded="true" signature="240:4843" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="909:1011" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="1038:1447" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="1053:1173" ph="/* ファンクションキーを押すとコメント取得を開始する。 ... */" />
+                <marker date="1557424370079" expanded="true" signature="1221:1339" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="1382:1441" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="1531:2579" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="1883:1942" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="2024:2224" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="2400:2498" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="2677:3281" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="3113:3198" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="3361:4649" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="3444:4639" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="3626:3707" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="4178:4269" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="4331:4542" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="4402:4528" ph="{...}" />
+                <marker date="1557424370079" expanded="true" signature="4737:4836" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YoutubeCommentCheck.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+              <folding>
+                <marker date="1558485650489" expanded="false" signature="6:122" ph="..." />
+                <marker date="1558485650489" expanded="true" signature="202:1745" ph="{...}" />
+                <marker date="1558485650489" expanded="true" signature="330:473" ph="{...}" />
+                <marker date="1558485650489" expanded="true" signature="915:975" ph="{...}" />
+                <marker date="1558485650489" expanded="true" signature="1076:1739" ph="{...}" />
+                <marker date="1558485650489" expanded="true" signature="1162:1207" ph="{...}" />
+                <marker date="1558485650489" expanded="true" signature="1232:1313" ph="{...}" />
+                <marker date="1558485650489" expanded="true" signature="1371:1440" ph="{...}" />
+                <marker date="1558485650489" expanded="true" signature="1497:1720" ph="{...}" />
+                <marker date="1558485650489" expanded="true" signature="1595:1716" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Question/QuestionnaireEditor.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+              <folding>
+                <marker date="1558626357409" expanded="false" signature="6:133" ph="..." />
+                <marker date="1558626357409" expanded="true" signature="183:2361" ph="{...}" />
+                <marker date="1558626357409" expanded="true" signature="263:452" ph="{...}" />
+                <marker date="1558626357409" expanded="true" signature="536:542" ph="{...}" />
+                <marker date="1558626357409" expanded="true" signature="836:1413" ph="{...}" />
+                <marker date="1558626357409" expanded="true" signature="945:1018" ph="{...}" />
+                <marker date="1558626357409" expanded="true" signature="1130:1337" ph="{...}" />
+                <marker date="1558626357409" expanded="true" signature="1238:1312" ph="{...}" />
+                <marker date="1558626357409" expanded="true" signature="1472:2357" ph="{...}" />
+                <marker date="1558626357409" expanded="true" signature="1743:2074" ph="{...}" />
+                <marker date="1558626357409" expanded="true" signature="1943:2070" ph="{...}" />
+                <marker date="1558626357409" expanded="true" signature="2241:2354" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Question/QuestionnaireAction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+              <folding>
+                <marker date="1558624931203" expanded="true" signature="6:129" ph="..." />
+                <marker date="1558624931203" expanded="true" signature="191:4862" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="500:1143" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="918:1128" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="1591:1658" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="1686:2088" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="1790:1923" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="1979:2073" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="2183:2327" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="2241:2281" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="2384:2794" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="2450:2538" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="2871:3498" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="3035:3107" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="3290:3457" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="3548:3829" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="3705:3823" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="3886:4421" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="4086:4344" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="4452:4592" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="4685:4747" ph="{...}" />
+                <marker date="1558624931203" expanded="true" signature="4806:4860" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Question/QuestionTimer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+              <folding>
+                <marker date="1556807985000" expanded="false" signature="6:40" ph="..." />
+                <marker date="1556807985000" expanded="true" signature="108:911" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="350:766" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="380:760" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="573:750" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="797:859" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="888:909" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Spawn/ItemSpawnAction.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1556807985000" expanded="false" signature="6:85" ph="..." />
+                <marker date="1556807985000" expanded="true" signature="142:3185" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="286:387" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="1107:1483" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="1257:1477" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="1579:1622" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="1675:1839" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="1746:1786" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="1881:2926" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="2720:2782" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="3085:3173" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="3318:3629" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="3409:3627" ph="{...}" />
+                <marker date="1556807985000" expanded="true" signature="3555:3621" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/YoutubeSuperChatActionBase.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+              <folding>
+                <marker date="1557423372390" expanded="false" signature="6:78" ph="..." />
+                <marker date="1557423372390" expanded="true" signature="135:233" ph="{...}" />
+                <marker date="1557423372390" expanded="true" signature="210:231" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YoutubeJSON.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="615">
+              <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Question/QuestionnaireAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/YoutubeCommentActionBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Question/QuestionnaireEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YoutubeCommentGetManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/YoutubeSuperChatActionBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Question/QuestionTimer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YoutubeJSON.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Spawn/ItemSpawnAction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YoutubeCommentCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YouTubeChannelInfoCheck.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YouTubeChannelInfoCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/YoutubeSuperChatActionBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YoutubeCommentGetManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/YoutubeCommentActionBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YoutubeCommentCheck.cs" />
+        <option value="$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Question/QuestionnaireAction.cs" />
+        <option value="$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Question/QuestionnaireEditor.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="661" />
+    <option name="y" value="-8" />
+    <option name="width" value="731" />
+    <option name="height" value="700" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5cb46c64-0749-4f89-8f98-6f7d2cfcec34" name="Default Changelist" comment="" />
+      <created>1557419721205</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557419721205</updated>
+      <workItem from="1557419724434" duration="11000" />
+      <workItem from="1557419764971" duration="31000" />
+      <workItem from="1557419820744" duration="25000" />
+      <workItem from="1557419870660" duration="2927000" />
+      <workItem from="1557678728670" duration="1682000" />
+      <workItem from="1558457692895" duration="5065000" />
+      <workItem from="1558622783081" duration="3795000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13536000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15938166" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.329718" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" sideWeight="0.50053304" side_tool="true" weight="0.329718" />
+      <window_info anchor="bottom" id="Unity" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/YoutubeCommentActionBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="88" selection-start-line="5" selection-start-column="62" selection-end-line="5" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YouTubeChannelInfoCheck.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="61" selection-start-line="33" selection-start-column="61" selection-end-line="33" selection-end-column="61" />
+          <folding>
+            <marker date="1557419910518" expanded="true" signature="6:74" ph="..." />
+            <marker date="1557419910518" expanded="true" signature="93:1743" ph="{...}" />
+            <marker date="1557419910518" expanded="true" signature="183:1741" ph="{...}" />
+            <marker date="1557419910518" expanded="true" signature="547:673" ph="{...}" />
+            <marker date="1557419910518" expanded="true" signature="719:775" ph="{...}" />
+            <marker date="1557419910518" expanded="true" signature="833:1738" ph="{...}" />
+            <marker date="1557419910518" expanded="true" signature="1173:1236" ph="{...}" />
+            <marker date="1557419910518" expanded="true" signature="1276:1303" ph="{...}" />
+            <marker date="1557419910518" expanded="true" signature="1399:1714" ph="{...}" />
+            <marker date="1557419910518" expanded="true" signature="1503:1546" ph="{...}" />
+            <marker date="1557419910518" expanded="true" signature="1555:1709" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YoutubeCommentGetManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="100" selection-start-line="100" selection-end-line="100" />
+          <folding>
+            <marker date="1557424370079" expanded="false" signature="6:185" ph="..." />
+            <marker date="1557424370079" expanded="true" signature="240:4843" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="909:1011" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="1038:1447" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="1053:1173" ph="/* ファンクションキーを押すとコメント取得を開始する。 ... */" />
+            <marker date="1557424370079" expanded="true" signature="1221:1339" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="1382:1441" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="1531:2579" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="1883:1942" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="2024:2224" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="2400:2498" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="2677:3281" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="3113:3198" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="3361:4649" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="3444:4639" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="3626:3707" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="4178:4269" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="4331:4542" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="4402:4528" ph="{...}" />
+            <marker date="1557424370079" expanded="true" signature="4737:4836" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Spawn/ItemSpawnAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556807985000" expanded="false" signature="6:85" ph="..." />
+            <marker date="1556807985000" expanded="true" signature="142:3185" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="286:387" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="1107:1483" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="1257:1477" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="1579:1622" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="1675:1839" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="1746:1786" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="1881:2926" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="2720:2782" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="3085:3173" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="3318:3629" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="3409:3627" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="3555:3621" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/YoutubeSuperChatActionBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="55" selection-start-line="4" selection-start-column="55" selection-end-line="4" selection-end-column="55" />
+          <folding>
+            <marker date="1557423372390" expanded="false" signature="6:78" ph="..." />
+            <marker date="1557423372390" expanded="true" signature="135:233" ph="{...}" />
+            <marker date="1557423372390" expanded="true" signature="210:231" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YoutubeJSON.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" column="25" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/_Core/YoutubeCommentCheck.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="4" column="14" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
+          <folding>
+            <marker date="1558485650489" expanded="false" signature="6:122" ph="..." />
+            <marker date="1558485650489" expanded="true" signature="202:1745" ph="{...}" />
+            <marker date="1558485650489" expanded="true" signature="330:473" ph="{...}" />
+            <marker date="1558485650489" expanded="true" signature="915:975" ph="{...}" />
+            <marker date="1558485650489" expanded="true" signature="1076:1739" ph="{...}" />
+            <marker date="1558485650489" expanded="true" signature="1162:1207" ph="{...}" />
+            <marker date="1558485650489" expanded="true" signature="1232:1313" ph="{...}" />
+            <marker date="1558485650489" expanded="true" signature="1371:1440" ph="{...}" />
+            <marker date="1558485650489" expanded="true" signature="1497:1720" ph="{...}" />
+            <marker date="1558485650489" expanded="true" signature="1595:1716" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Question/QuestionTimer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1556807985000" expanded="false" signature="6:40" ph="..." />
+            <marker date="1556807985000" expanded="true" signature="108:911" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="350:766" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="380:760" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="573:750" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="797:859" ph="{...}" />
+            <marker date="1556807985000" expanded="true" signature="888:909" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Question/QuestionnaireAction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="38" column="8" selection-start-line="38" selection-start-column="8" selection-end-line="38" selection-end-column="8" />
+          <folding>
+            <marker date="1558624931203" expanded="true" signature="6:129" ph="..." />
+            <marker date="1558624931203" expanded="true" signature="191:4862" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="500:1143" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="918:1128" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="1591:1658" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="1686:2088" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="1790:1923" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="1979:2073" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="2183:2327" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="2241:2281" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="2384:2794" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="2450:2538" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="2871:3498" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="3035:3107" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="3290:3457" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="3548:3829" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="3705:3823" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="3886:4421" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="4086:4344" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="4452:4592" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="4685:4747" ph="{...}" />
+            <marker date="1558624931203" expanded="true" signature="4806:4860" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/YouTubeCommentGetterScripts/Action/Question/QuestionnaireEditor.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="58" column="23" selection-start-line="58" selection-start-column="23" selection-end-line="58" selection-end-column="23" />
+          <folding>
+            <marker date="1558626357409" expanded="false" signature="6:133" ph="..." />
+            <marker date="1558626357409" expanded="true" signature="183:2361" ph="{...}" />
+            <marker date="1558626357409" expanded="true" signature="263:452" ph="{...}" />
+            <marker date="1558626357409" expanded="true" signature="536:542" ph="{...}" />
+            <marker date="1558626357409" expanded="true" signature="836:1413" ph="{...}" />
+            <marker date="1558626357409" expanded="true" signature="945:1018" ph="{...}" />
+            <marker date="1558626357409" expanded="true" signature="1130:1337" ph="{...}" />
+            <marker date="1558626357409" expanded="true" signature="1238:1312" ph="{...}" />
+            <marker date="1558626357409" expanded="true" signature="1472:2357" ph="{...}" />
+            <marker date="1558626357409" expanded="true" signature="1743:2074" ph="{...}" />
+            <marker date="1558626357409" expanded="true" signature="1943:2070" ph="{...}" />
+            <marker date="1558626357409" expanded="true" signature="2241:2354" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

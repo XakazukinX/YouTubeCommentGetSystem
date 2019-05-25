@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\tente\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\tente\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_YouTubeCommentGetSystem.-554559283.00" t="ExcludeRecursive" />
+    <e p="D:\Git\YouTubeCommentGetSystem\YouTubeCommentGetSystem" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="YouTubeCommentGetterScripts" t="Include">
+          <e p="_Core" t="Include">
+            <e p="YouTubeChannelInfoCheck.cs" t="Include" />
+            <e p="YouTubeChannelJSON.cs" t="Include" />
+            <e p="YoutubeCommentCheck.cs" t="Include" />
+            <e p="YoutubeCommentGetManager.cs" t="Include" />
+            <e p="YouTubeCommentType.cs" t="Include" />
+            <e p="YoutubeJSON.cs" t="Include" />
+            <e p="YoutubeURI.cs" t="Include" />
+          </e>
+          <e p="Action" t="Include">
+            <e p="Counter" t="Include">
+              <e p="CounterUpAction.cs" t="Include" />
+            </e>
+            <e p="Light" t="Include">
+              <e p="LightIntensityDecreaser.cs" t="Include" />
+              <e p="LightIntensityIncreaseAction.cs" t="Include" />
+              <e p="ManyLightIntensityIncreaseAction.cs" t="Include" />
+            </e>
+            <e p="Question" t="Include">
+              <e p="NonEditableAttribute.cs" t="Include" />
+              <e p="QuestionnaireAction.cs" t="Include" />
+              <e p="QuestionnaireEditor.cs" t="Include" />
+              <e p="QuestionTimer.cs" t="Include" />
+            </e>
+            <e p="Spawn" t="Include">
+              <e p="CommentItemFalling.cs" t="Include" />
+              <e p="ItemSpawnAction.cs" t="Include" />
+            </e>
+            <e p="YoutubeCommentActionBase.cs" t="Include" />
+            <e p="YoutubeSuperChatActionBase.cs" t="Include" />
+          </e>
+          <e p="ChannelAction" t="Include">
+            <e p="ChannelIconContainerAction.cs" t="Include" />
+            <e p="ChannelIconFalling.cs" t="Include" />
+            <e p="YouTubeChannelActionBase.cs" t="Include" />
+          </e>
+          <e p="Others" t="Include">
+            <e p="CustomLabelAttribute.cs" t="Include" />
+            <e p="Description.cs" t="Include" />
+            <e p="SingletonMonoBehaviour.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+      <e p="YouTubeCommentGetSystem.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
