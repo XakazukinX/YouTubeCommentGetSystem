@@ -83,7 +83,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   CommentGetStartKey: 286
-  apiKey: AIzaSyAYbhN8x49idGE9wafvz4EMXRabeyjbFL4
-  focusCannelId: UClt7zcmTBHkC7c8BwUbRGBw
+  apiKey: "\u3053\u3053\u306BAPIKey\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044"
+  focusCannelId: "\u3053\u3053\u306B\u30C1\u30E3\u30F3\u30CD\u30EBID\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044"
   commentFetchInterval: 5
   isDebug: 0

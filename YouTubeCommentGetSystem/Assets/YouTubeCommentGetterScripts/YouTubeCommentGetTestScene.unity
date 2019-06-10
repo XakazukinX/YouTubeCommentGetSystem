@@ -538,16 +538,6 @@ Prefab:
       propertyPath: commentActionSettings.Array.data[6]._commentAction
       value: 
       objectReference: {fileID: 368690579}
-    - target: {fileID: 114771125176785528, guid: b197690281fcc7d4ea47114c40fa50b0,
-        type: 2}
-      propertyPath: apiKey
-      value: "\u3053\u3053\u306BAPIKey\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044"
-      objectReference: {fileID: 0}
-    - target: {fileID: 114771125176785528, guid: b197690281fcc7d4ea47114c40fa50b0,
-        type: 2}
-      propertyPath: focusCannelId
-      value: "\u3053\u3053\u306B\u30C1\u30E3\u30F3\u30CD\u30EBID\u3092\u5165\u529B\u3057\u3066\u304F\u3060\u3055\u3044"
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b197690281fcc7d4ea47114c40fa50b0, type: 2}
   m_IsPrefabAsset: 0
